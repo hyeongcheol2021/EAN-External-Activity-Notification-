@@ -1,6 +1,30 @@
 {
  "items": [
   {
+   "key": "event:582338",
+   "source": "event",
+   "label": "행사안내",
+   "no": 582338,
+   "title": "2026 지역문제 해결형 AI활용 경진대회 개최",
+   "date": "2026-11-13",
+   "cat": "교외행사",
+   "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_02.do?mode=view&articleNo=582338",
+   "first_seen": 1794567748,
+   "active": true
+  },
+  {
+   "key": "news:582368",
+   "source": "news",
+   "label": "일반소식",
+   "no": 582368,
+   "title": "[앵커사업단] 2026 초광역 융합 아이디어톤 신청 마감기한 연장 안내(~ 11. 17.(화))",
+   "date": "2026-11-13",
+   "cat": "부속기관",
+   "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_03.do?mode=view&articleNo=582368",
+   "first_seen": 1794567748,
+   "active": true
+  },
+  {
    "key": "앵커사업단 통섭 소통 창의 2026년 항공우주 분석 실무 교육과정(오전반) 우주환경 및 방사선 이론부터 전문 분석도구를 활용한 실습까지 배우는 항공우주 분석 실무 교육과정 외부인 참여 불가능  교육기간 2026.12.21~2026.12.23 신청기간 2026.10.27~2026.12.02",
    "source": "biskit",
    "label": "비교과 프로그램",
@@ -267,5 +291,5 @@
   "haksa",
   "news"
  ],
- "updated": 1794504132
+ "updated": 1794567748
 }
