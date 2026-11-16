@@ -199,30 +199,6 @@
    "active": true
   },
   {
-   "key": "event:581911",
-   "source": "event",
-   "label": "행사안내",
-   "no": 581911,
-   "title": "「2026년 충청북도 탄소중립 창작 그림책 공모전」 안내",
-   "date": "2026-11-09",
-   "cat": "교외행사",
-   "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_02.do?mode=view&articleNo=581911",
-   "first_seen": 1794376846,
-   "active": true
-  },
-  {
-   "key": "event:581914",
-   "source": "event",
-   "label": "행사안내",
-   "no": 581914,
-   "title": "식품안전 연구과제 제안 공모전 안내",
-   "date": "2026-11-09",
-   "cat": "교외행사",
-   "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_02.do?mode=view&articleNo=581914",
-   "first_seen": 1794376846,
-   "active": true
-  },
-  {
    "key": "news:580220",
    "source": "news",
    "label": "일반소식",
@@ -269,6 +245,30 @@
    "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_03.do?mode=view&articleNo=574810",
    "first_seen": 1794376846,
    "active": true
+  },
+  {
+   "key": "event:581911",
+   "source": "event",
+   "label": "행사안내",
+   "no": 581911,
+   "title": "「2026년 충청북도 탄소중립 창작 그림책 공모전」 안내",
+   "date": "2026-11-09",
+   "cat": "교외행사",
+   "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_02.do?mode=view&articleNo=581911",
+   "first_seen": 1794376846,
+   "active": false
+  },
+  {
+   "key": "event:581914",
+   "source": "event",
+   "label": "행사안내",
+   "no": 581914,
+   "title": "식품안전 연구과제 제안 공모전 안내",
+   "date": "2026-11-09",
+   "cat": "교외행사",
+   "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_02.do?mode=view&articleNo=581914",
+   "first_seen": 1794376846,
+   "active": false
   },
   {
    "key": "event:581907",
@@ -341,5 +341,5 @@
   "haksa",
   "news"
  ],
- "updated": 1794811649
+ "updated": 1794847065
 }
