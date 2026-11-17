@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "key": "공학교육혁신센터 통섭 창의 협업 [공학]2026~2027 국제공동 캡스톤 프로젝트 Global CDP 참가학생 모집 smart sustainable solutions for a greener future: esg innovation 외부인 참여 불가능  교육기간 2026.12.21~2027.01.09 신청기간 2026.11.17~2026.11.19",
+   "source": "biskit",
+   "label": "비교과 프로그램",
+   "title": "공학교육혁신센터 통섭 창의 협업 [공학]2026~2027 국제공동 캡스톤 프로젝트 Global CDP 참가학생 모집 smart sustainable solutions for a greener future: esg innovation",
+   "period": "2026.11.17~2026.11.19",
+   "url": "https://biskit.kumoh.ac.kr/",
+   "first_seen": 1794937875,
+   "active": true
+  },
+  {
    "key": "대학일자리플러스센터 통섭 소통 도전 명사초청특강 (정일영 교수) 진로·취업 분야 명사의 경험과 통찰을 통해 진로탐색의 동기를 부여하고 진로설계의 방향성을 제시 외부인 참여 불가능  교육기간 2026.12.04~2026.12.04 신청기간 2026.11.17~2026.12.02",
    "source": "biskit",
    "label": "비교과 프로그램",
@@ -101,18 +111,6 @@
    "active": false
   },
   {
-   "key": "event:582338",
-   "source": "event",
-   "label": "행사안내",
-   "no": 582338,
-   "title": "2026 지역문제 해결형 AI활용 경진대회 개최",
-   "date": "2026-11-13",
-   "cat": "교외행사",
-   "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_02.do?mode=view&articleNo=582338",
-   "first_seen": 1794567748,
-   "active": true
-  },
-  {
    "key": "news:582368",
    "source": "news",
    "label": "일반소식",
@@ -123,6 +121,18 @@
    "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_03.do?mode=view&articleNo=582368",
    "first_seen": 1794567748,
    "active": true
+  },
+  {
+   "key": "event:582338",
+   "source": "event",
+   "label": "행사안내",
+   "no": 582338,
+   "title": "2026 지역문제 해결형 AI활용 경진대회 개최",
+   "date": "2026-11-13",
+   "cat": "교외행사",
+   "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_02.do?mode=view&articleNo=582338",
+   "first_seen": 1794567748,
+   "active": false
   },
   {
    "key": "event:582278",
@@ -207,16 +217,6 @@
    "active": false
   },
   {
-   "key": "대학일자리플러스센터 통섭 소통 도전 병역진로설계센터 설명회 전공 및 적성을 고려한 맞춤형 병역진로설계를 위한 설명회 개최 외부인 참여 불가능  교육기간 2026.11.23~2026.11.23 신청기간 2026.11.02~2026.11.20",
-   "source": "biskit",
-   "label": "비교과 프로그램",
-   "title": "대학일자리플러스센터 통섭 소통 도전 병역진로설계센터 설명회 전공 및 적성을 고려한 맞춤형 병역진로설계를 위한 설명회 개최",
-   "period": "2026.11.02~2026.11.20",
-   "url": "https://biskit.kumoh.ac.kr/",
-   "first_seen": 1794376846,
-   "active": true
-  },
-  {
    "key": "앵커사업단 통섭 소통 창의 ADsP 데이터분석 준전문가 자격 취득 과정(방위산업 데이터 분석 및 엔지니어링 4차 교육) ADsP(데이터분석준전문가)과정 자격증 특강 외부인 참여 가능  교육기간 2026.12.28~2026.12.31 신청기간 2026.11.09~2026.12.17",
    "source": "biskit",
    "label": "비교과 프로그램",
@@ -245,18 +245,6 @@
    "date": "2026-10-06",
    "cat": "장학",
    "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=578950",
-   "first_seen": 1794376846,
-   "active": true
-  },
-  {
-   "key": "news:580220",
-   "source": "news",
-   "label": "일반소식",
-   "no": 580220,
-   "title": "[앵커사업단] 2026 초광역 융합 아이디어톤 개최 및 신청 안내",
-   "date": "2026-10-22",
-   "cat": "부속기관",
-   "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_03.do?mode=view&articleNo=580220",
    "first_seen": 1794376846,
    "active": true
   },
@@ -295,6 +283,28 @@
    "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_03.do?mode=view&articleNo=574810",
    "first_seen": 1794376846,
    "active": true
+  },
+  {
+   "key": "대학일자리플러스센터 통섭 소통 도전 병역진로설계센터 설명회 전공 및 적성을 고려한 맞춤형 병역진로설계를 위한 설명회 개최 외부인 참여 불가능  교육기간 2026.11.23~2026.11.23 신청기간 2026.11.02~2026.11.20",
+   "source": "biskit",
+   "label": "비교과 프로그램",
+   "title": "대학일자리플러스센터 통섭 소통 도전 병역진로설계센터 설명회 전공 및 적성을 고려한 맞춤형 병역진로설계를 위한 설명회 개최",
+   "period": "2026.11.02~2026.11.20",
+   "url": "https://biskit.kumoh.ac.kr/",
+   "first_seen": 1794376846,
+   "active": false
+  },
+  {
+   "key": "news:580220",
+   "source": "news",
+   "label": "일반소식",
+   "no": 580220,
+   "title": "[앵커사업단] 2026 초광역 융합 아이디어톤 개최 및 신청 안내",
+   "date": "2026-10-22",
+   "cat": "부속기관",
+   "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_03.do?mode=view&articleNo=580220",
+   "first_seen": 1794376846,
+   "active": false
   },
   {
    "key": "event:581911",
@@ -391,5 +401,5 @@
   "haksa",
   "news"
  ],
- "updated": 1794903938
+ "updated": 1794937875
 }
