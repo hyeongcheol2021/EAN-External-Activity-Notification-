@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "key": "공학교육혁신센터 통섭 창의 협업 [공학]2026~2027 국제공동 캡스톤 프로젝트 Global CDP 참가학생 모집(~22일까지연장) smart sustainable solutions for a greener future: esg innovation 외부인 참여 불가능  교육기간 2026.12.21~2027.01.09 신청기간 2026.11.17~2026.11.23",
+   "source": "biskit",
+   "label": "비교과 프로그램",
+   "title": "공학교육혁신센터 통섭 창의 협업 [공학]2026~2027 국제공동 캡스톤 프로젝트 Global CDP 참가학생 모집(~22일까지연장) smart sustainable solutions for a greener future: esg innovation",
+   "period": "2026.11.17~2026.11.23",
+   "url": "https://biskit.kumoh.ac.kr/",
+   "first_seen": 1795142064,
+   "active": true
+  },
+  {
    "key": "대학일자리플러스센터 통섭 소통 도전 [특강] (前 공기업 내부면접관/ 現 공공기관 외부면접관) 공공기관 취업 전략 특강 공공기관 채용 면접관 관점 이해 및 공기업 취업 전략 수립 외부인 참여 가능  교육기간 2026.11.30~2026.11.30 신청기간 2026.11.19~2026.11.27",
    "source": "biskit",
    "label": "비교과 프로그램",
@@ -80,7 +90,7 @@
    "period": "2026.11.17~2026.11.19",
    "url": "https://biskit.kumoh.ac.kr/",
    "first_seen": 1794937875,
-   "active": true
+   "active": false
   },
   {
    "key": "대학일자리플러스센터 통섭 소통 도전 명사초청특강 (정일영 교수) 진로·취업 분야 명사의 경험과 통찰을 통해 진로탐색의 동기를 부여하고 진로설계의 방향성을 제시 외부인 참여 불가능  교육기간 2026.12.04~2026.12.04 신청기간 2026.11.17~2026.12.02",
@@ -473,5 +483,5 @@
   "haksa",
   "news"
  ],
- "updated": 1795093962
+ "updated": 1795142064
 }
